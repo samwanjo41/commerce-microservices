@@ -1,4 +1,4 @@
-package com.samwanjohi.productservice.product;
+package com.samwanjohi.productservice.controller;
 
 import com.samwanjohi.productservice.dto.ProductRequest;
 import com.samwanjohi.productservice.dto.ProductResponse;
